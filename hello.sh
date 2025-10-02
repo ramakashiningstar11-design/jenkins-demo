@@ -1,1 +1,1 @@
-"echo Hello Jenkins Build" 
+echo Hello Jenkins Build
